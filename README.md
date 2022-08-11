@@ -1,4 +1,4 @@
-# ARTIGO - DESTRINCHANDO O ELASTIC SECURITY - SIEM
+# ARTIGO - DESTRINCHANDO O ELASTIC SECURITY: SIEM
 
 Primeira parte de três artigos que será destrinchado o Elastic Security para contribuição no programa *Elastic Contributor*.
 
